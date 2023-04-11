@@ -1,0 +1,30 @@
+.pressBtn{
+  line-height: 50px;
+  width: 210px;
+  padding: 10px;
+  font-weight: bold;
+}
+
+
+
+
+#game {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: 5px solid;
+  border-radius: 30px;
+  padding: 15px;
+  background-color: aqua;
+  text-align: center;
+}
+#textPlayer{
+  color: darkblue;
+}
+
+#textComputer{
+  color: crimson;
+}
+
+#textResult{
+  
+}
+
